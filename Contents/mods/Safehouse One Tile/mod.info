@@ -1,6 +1,4 @@
-version=1
-id=3353745049
-title=Safehouse One Tile
+name=Safehouse One Tile
+id=safehouseonetile
 description=This mod enable the creation of safehouse with 1 tile from the admin panel safehouse add ui.
-tags=Build 41;
-visibility=public
+poster=poster.png
